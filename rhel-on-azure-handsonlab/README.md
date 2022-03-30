@@ -82,7 +82,8 @@ If you do not plan to continue to use the resources created in these labs, pleas
 By cleaning up you also save our money and help us organize these trainings in the future as well. Thank you!
 
 ----
-* Contact
+Contact
+----
 - [Twitter @AndreiPintica](https://twitter.com/AndreiPintica)
 - [Linkedin](https://linkedin.com/in/andreipintica)
 
