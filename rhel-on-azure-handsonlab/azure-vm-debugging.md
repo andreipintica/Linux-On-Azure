@@ -16,7 +16,7 @@ $ ssh azureuser@publicip
 ```
 You could also achieve this from the Azure Portal as shown in the picture: 
 
-![password](/images/troubleshoot/password-reset.jpg)
+![password](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/password-reset.jpg)
 
 VM Serial Console and Boot Diagnostics
 ------------------------------------------
@@ -32,7 +32,7 @@ $ az vm boot-diagnostics enable --name myLinuxVM --resource-group LinuxResourceG
 NOTE: Storage accounts names need to be unique by region so if it is taken you might need to change it. 
 After it has been enabled go to https://portal.azure.com and verify it. Navigate to the VM 
 
-![VM](/images/troubleshoot/VM.jpg)
+![VM](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/VM.jpg)
 
 Since that has been enabled we will make some changes on the VM like any administrator would. 
 Let's log in to our VM:
@@ -57,18 +57,18 @@ ssh: connect to host 65.52.136.XX port 22: Resource temporarily unavailable
 ```
 Ups! we are out of the VM let's fix it. If we didn't know what is going on, a good place to start would be the Boot Diagnostics let's explore that. Click on MyLinux VM from the list. On the left pane under the section "Support + troubleshooting" select "Boot Diagnostics". 
 
-![boot](/images/troubleshoot/boot-diagnostics.jpg)
+![boot](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/boot-diagnostics.jpg)
 
 There you can see both a screenshot and a text version of the log:
 
-![boot1](/images/troubleshoot/boot-diagnostics1.JPG)
+![boot1](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/boot-diagnostics1.JPG)
 
 
-![boot2](/images/troubleshoot/boot-diagnostics2.JPG)
+![boot2](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/boot-diagnostics2.JPG)
 
 We know what the problem is, we can fix it by enabling SSH again on the firewall, but we would neeed access to the VM, luckily there is the serial console
 
-![serial](/images/troubleshoot/serial-console.JPG)
+![serial](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/troubleshoot/serial-console.JPG)
 
 Login via Serial Console, authenticate and open the SSH port on the systems firewall and enable SSH.
 ```
