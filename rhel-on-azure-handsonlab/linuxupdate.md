@@ -16,11 +16,11 @@ To create enable update management for a VM you have 2 options, either create an
 
 Navigate to the VM we created in previous sections. Select the name of the VM "myLinuxVM" and click on it. 
 
-![VM](/images/updates/VM.jpg)
+![VM](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/VM.jpg)
 
 Then on the left hand pane, under the "Operations" section select update management:
 
-![update-management](/images/updates/update-management.jpg)
+![update-management](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/update-management.jpg)
 
 Configure the update management as follows: 
 
@@ -30,19 +30,19 @@ Configure the update management as follows:
 - Automation Account Subscription: select your subscription
 - Automation Account: create default account...
 
-![update-management](/images/updates/update-management-settings.JPG)
+![update-management](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/update-management-settings.JPG)
 
 Click on Enable, it will take a few minutes to be set up. Once it is done you will see something like: 
 
-![update-management](/images/updates/update-management-done.JPG)
+![update-management](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/update-management-done.JPG)
 
 Everything is up to date on this VM since we just deployed it, but we can schedule future or recurrent updates. Click on "Schedule update deployment"
 
-![schedule](/images/updates/schedule.jpg)
+![schedule](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/schedule.jpg)
 
 Then we need to configure the schedule: 
 
-![settings](/images/updates/settings.JPG)
+![settings](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/updates/settings.JPG)
 
 The parameters are:
 
