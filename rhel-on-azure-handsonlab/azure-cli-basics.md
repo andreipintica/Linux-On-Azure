@@ -29,7 +29,7 @@ You need to use Windows Subsystem for Linux (WSL) or some other Linux-like envin
 In case you have never heard of WSL before, check this out. WSL is really cool and magical system:  https://devblogs.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/
 
 
-![WSL](/images/wsl1.jpg)
+![WSL](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/wsl1.jpg)
 
 B) Use Azure CLI on Cloud Shell
 ----------------------------
@@ -37,7 +37,7 @@ B) Use Azure CLI on Cloud Shell
 Cloud Shell is a free (excl. storage cost) service which provides you a virtual Linux server in a container, including pre-installed Azure CLI.
 
 
-![Cloud Shell](/images/cloudshell1.jpg)
+![Cloud Shell](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/cloudshell1.jpg)
 
 
 Checkpoint
