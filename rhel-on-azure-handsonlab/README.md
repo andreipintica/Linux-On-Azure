@@ -12,8 +12,6 @@ Typical running time for the lab is two hours.
  
 ![](https://img.shields.io/badge/OS-RedHatLinux-informational?style=flat&logo=Redhat&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a) 
 
-- [Twitter @AndreiPintica](https://twitter.com/AndreiPintica)
-- [Linkedin](https://linkedin.com/in/andreipintica)
 
 Target audience
 ===============
@@ -84,4 +82,7 @@ If you do not plan to continue to use the resources created in these labs, pleas
 By cleaning up you also save our money and help us organize these trainings in the future as well. Thank you!
 
 ----
+Contact
+- [Twitter @AndreiPintica](https://twitter.com/AndreiPintica)
+- [Linkedin](https://linkedin.com/in/andreipintica)
 
