@@ -8,6 +8,12 @@ This lab will also cover more advanced topics such as monitoring and update mana
 
 Typical running time for the lab is two hours.
 
+🔧 Technologies & Tools
+ 
+![](https://img.shields.io/badge/OS-RedHatLinux-informational?style=flat&logo=Redhat&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a) 
+
+- [Twitter @AndreiPintica](https://twitter.com/AndreiPintica)
+- [Linkedin](https://linkedin.com/in/andreipintica)
 
 Target audience
 ===============
