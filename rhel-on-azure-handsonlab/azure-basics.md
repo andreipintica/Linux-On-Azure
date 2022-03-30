@@ -57,13 +57,13 @@ https://portal.azure.com
 ```
 After you login you will see a portal as the image: 
 
-![Portal](/images/basics/azure-portal-fullscreen-map.png)
+![Portal](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/basics/azure-portal-fullscreen-map.png)
 
 Let's explore each element of the portal, navigate through them: 
 1. **Page Header:** appears at the top of every portal page and holds global elements. You can use it to return to main menu. 
 2. **Global search:** the search bar is used to quickly find resources, a service, or documentation. Search for Virtual Machine and you will see available services, resources you have deployed with that name (in this case none) and related oficial documentation. 
 
-![Search](/images/basics/search.JPG)
+![Search](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/basics/search.png)
 
 3. **Global controls:** these features persist across the portal independently on where you navigate to, they include: Cloud Shell, subscription filter, notifications, portal settings, help and support, and send us feedback. Cloud Shell we will explore during the labs and it is a browser shell experience, subscription filter allows you to only show resources associated with a subscription or a group of them, notifications are shown any time you take an action on the portal you can check the progress of a resource creation for example, in portal settings you can change the language and theme of the portal amongst other things. Change the color scheme of your portal on the settings feature.
 
@@ -75,7 +75,7 @@ Let's explore each element of the portal, navigate through them:
 
 7. **Your favorites list:** as mentioned before, you can add or remove services from the All services page. Let's add Kubernetes as a Favorite to your Dashboard. To do that click on "All Services" and select the star next to the Kubernetes Services. 
 
-![AKS](/images/basics/favorite.png)
+![AKS](https://github.com/andreipintica/Linux-On-Azure/blob/master/rhel-on-azure-handsonlab/images/basics/favorite.png)
 
 8. **Left pane:** many services include a left pane menu to help you manage the service. Once you deploy a service such as a VM you can configure it from the Left pane.
 
