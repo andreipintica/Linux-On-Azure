@@ -79,5 +79,5 @@ If you do not plan to continue to use the resources created in these labs, pleas
 
 * [Deleting resource groups](cleanup.md)
 
-By cleaning up you also save our money.
+By cleaning up you also save your money.
 
